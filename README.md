@@ -1,2 +1,2 @@
 # Workshop_01
-Warsztaty z podstaw programowania
+Basics of programming - small game.
